@@ -361,17 +361,6 @@ background-color: #4D5AE5;
 }
 .container-text-overflow:hover{
         background-color: #4d5ae5;
-        content: "";
-            background-image: url('your-image.jpg');
-            opacity: 0.5;
-            position: absolute;
-            z-index: -1;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%;
 }
 
 .li-list-portfolio:hover.portfolio-text-overflow{
